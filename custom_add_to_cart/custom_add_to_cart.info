@@ -1,0 +1,5 @@
+name = Custom add to cart
+description = Module that creates a block for custom add to cart
+package = Custom
+core = 7.x
+dependencies[] = commerce
